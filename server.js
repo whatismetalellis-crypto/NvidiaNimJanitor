@@ -42,7 +42,8 @@ const MODEL_MAPPING = {
   'deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro',
   'model': 'moonshotai/kimi-k2.6',
   'model': 'deepseek-ai/deepseek-v4-flash',
-  'model': 'z-ai/glm-5.2'
+  'model': 'z-ai/glm-5.2',
+  'model': 'moonshotai/kimi-k2.7-code'
 };
 
 // Root endpoint
